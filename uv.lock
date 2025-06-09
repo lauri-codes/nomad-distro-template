@@ -421,11 +421,11 @@ wheels = [
 
 [[package]]
 name = "cachetools"
-version = "6.0.0b3"
+version = "6.0.0"
 source = { registry = "https://gitlab.mpcdf.mpg.de/api/v4/projects/2187/packages/pypi/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/b7/51/7f28491106f770eb86a2f887ac1e6b2ce498e7236beed7c04a39d8540ac1/cachetools-6.0.0b3.tar.gz", hash = "sha256:5e4914650ae75c8c5c2655e2b55d61c8a992a49cec898f774dd3209474559edb", size = 29181, upload-time = "2025-04-08T19:32:30.535Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/c0/b0/f539a1ddff36644c28a61490056e5bae43bd7386d9f9c69beae2d7e7d6d1/cachetools-6.0.0.tar.gz", hash = "sha256:f225782b84438f828328fc2ad74346522f27e5b1440f4e9fd18b20ebfd1aa2cf", size = 30160, upload-time = "2025-05-23T20:01:13.076Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/bd/68/8b098e80f25ea601ec44d1cebe2f63c7c546e1369cfffcec3e07932585af/cachetools-6.0.0b3-py3-none-any.whl", hash = "sha256:72b702cfa12531beb906c2dda4a79b6d91b329e9066c12363a20c4ee634b8c03", size = 10822, upload-time = "2025-04-08T19:32:28.971Z" },
+    { url = "https://files.pythonhosted.org/packages/6a/c3/8bb087c903c95a570015ce84e0c23ae1d79f528c349cbc141b5c4e250293/cachetools-6.0.0-py3-none-any.whl", hash = "sha256:82e73ba88f7b30228b5507dce1a1f878498fc669d972aef2dde4f3a3c24f103e", size = 10964, upload-time = "2025-05-23T20:01:11.323Z" },
 ]
 
 [[package]]
@@ -3547,7 +3547,7 @@ wheels = [
 
 [[package]]
 name = "nomad-parser-plugins-workflow"
-version = "1.1.7"
+version = "1.1.8"
 source = { registry = "https://gitlab.mpcdf.mpg.de/api/v4/projects/2187/packages/pypi/simple" }
 dependencies = [
     { name = "asr" },
@@ -3560,9 +3560,9 @@ dependencies = [
     { name = "pydantic" },
     { name = "xarray" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/1f/16/018cba180a2b4c41b4f5bb89798a44e5bdc43e1a4650d2e9b3e7e7e0c78b/nomad_parser_plugins_workflow-1.1.7.tar.gz", hash = "sha256:c87580c61a4fe30fdee5984bdd9af6faa733cb33b9d424f6cd85b3b5038cc323", size = 31865036, upload-time = "2025-04-04T09:55:39.943Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/50/03/f616a9962889c6bd06c0cc037d39138d8359af5858fdbd7caa8fc1c8c728/nomad_parser_plugins_workflow-1.1.8.tar.gz", hash = "sha256:df8603a0dbb8400a4e8005adb46290e7f06c628335fd6cc5ced79039d0f0ff8c", size = 31864751, upload-time = "2025-06-06T10:01:56.732Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/72/40/4b9f8802c11817fecfc39ac984bc95783807ba69e321856761cbc3185d9f/nomad_parser_plugins_workflow-1.1.7-py3-none-any.whl", hash = "sha256:60d688efd8b89c679359955f809eebfa7d848c5bcc149205fd9baa25646f1cd0", size = 121377, upload-time = "2025-04-04T09:55:37.808Z" },
+    { url = "https://files.pythonhosted.org/packages/41/08/f2e69dac27a956e6f54cb930fab5ea93f62f30a3dce2b231a64f958af998/nomad_parser_plugins_workflow-1.1.8-py3-none-any.whl", hash = "sha256:0e932fababf0ffff5186b3c177ecd1c430b456d09b79a54b36fb1aac735268f6", size = 121426, upload-time = "2025-06-06T10:01:54.872Z" },
 ]
 
 [[package]]
